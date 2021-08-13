@@ -1,0 +1,37 @@
+/*.wrapper{*/
+/*    display: grid;*/
+/*    grid-template-columns: repeat(5, 1fr);*/
+/*    height: 100vh;*/
+/*}*/
+/*.wrapper div{*/
+/*    border: 2px solid grey ;*/
+/*}*/
+/*.dark{*/
+/*    background-color: black;*/
+/*}*/
+/*.green{*/
+/*    background-color: darkgreen;*/
+/*}*/
+/*.red{*/
+/*    background-color: red;*/
+/*}*/
+/*.blue{*/
+/*    background-color: blue;*/
+/*}*/
+/*.img{*/
+/*    width: 500px;*/
+/*    height: 500px;*/
+/*}*/
+/*.img small{*/
+/*    width: 10px;*/
+/*    height: 10px;*/
+/*    display: grid;*/
+/*    grid-template-rows: repeat(1, 3fr);*/
+/*    gap: 10px;*/
+/*}*/
+
+.center{
+    width: 100px;
+    height: 100px;
+    color: red;
+}
